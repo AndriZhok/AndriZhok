@@ -24,6 +24,6 @@
   <img align="left" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 </a>
-<a href="https://www.instagram.com/andrio.h_/">
+<a href="https://www.instagram.com/andio.h_/">
   <img align="left" alt="Timur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
