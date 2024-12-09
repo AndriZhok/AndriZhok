@@ -14,6 +14,11 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndriZhok&theme=solarized_dark)
 
+### Codewars Profile
+
+[![Codewars Profile](https://www.codewars.com/users/AndriZhuk/badges/large)](https://www.codewars.com/users/AndriZhuk)
+
+### Leetcode Profile
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/barackobemka228?ext=heatmap)
 <br>
